@@ -1,0 +1,71 @@
+{
+	"main": {
+		"restURL": "http://10.18.0.181:7080/kvinto/in",
+		"shopCode": "MITKV04",
+		"local": true
+	},
+	"network": {
+		"host": null,
+		"port": 2222,
+		"path": {
+			"db": "/existent/db/",
+			"catalogImg": "/existent/image/catalog/"
+		}
+	},
+	"loc": {
+		"lang": "ua",
+		"cityLocation": "KV"
+	},
+	"orientation": {
+		"screen": ""
+	},
+	"screenSaver": {
+		"path": {
+			"video": "build/video/screenSaver.mp4",
+			"slider": "build/img/screenSaver/"
+		},
+		"delay": 120000
+	},
+	"views": {
+		"productCard": {
+			"infoDetailFields": [
+				"SEASON",
+				"VID_TOVARA",
+				"GENDER",
+				"VERX",
+				"PODKL",
+				"PODOSHVA",
+				"STRANA",
+				"STYLE",
+				"BRAND",
+				"CVET"
+			]
+		}
+	},
+	"order": {
+		"restrictionRules": {
+			"pickUp": {
+
+					"VID_TOVARA_UA": [
+						"Аерозоль для взуття",
+						"Гелева продукція",
+						"дезодорант",
+						"Рідкий крем для взуття",
+						"Рідина для чищення взуття",
+						"Крем для взуття",
+						"Ріжок",
+						"Набір для чищення",
+						"Піна для чищення",
+						"Підп`яточник",
+						"Промо-набір",
+						"Устілки",
+						"шнурки",
+						"Шкарпетки",
+						"Іграшки",
+						"Щітка"
+					]
+				
+			}
+		}
+	}
+}

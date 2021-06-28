@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": false,
+		"allowJs": true,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		// "srcMap": true,
+		"noEmitOnError": true,
+		"pretty": true,
+		"target": "es5",
+		"downlevelIteration": true,
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true,
+		"strictNullChecks": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"lib": ["es2015", "dom"],
+		"jsx": "react",
+		"typeRoots": ["node_modules/@types"],
+		"baseUrl": "./source",
+		"paths": {
+			"@/*": ["data/*"],
+			"~/*": ["js/*"]
+		}
+	}
+}

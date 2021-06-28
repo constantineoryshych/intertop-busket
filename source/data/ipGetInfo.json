@@ -1,0 +1,617 @@
+{
+	"172.30.112": {
+		"host": "10.5.112.1",
+		"city": "KV",
+		"shopcode": "MITKV28"
+	},
+
+	"172.30.51": {
+		"host": "10.5.51.1",
+		"city": "ZP",
+		"shopcode": "MITZP01"
+	},
+
+	"172.30.125": {
+		"host": "10.5.125.1",
+		"city": "KV",
+		"shopcode": "MITKV29"
+	},
+
+	"172.30.71": {
+		"host": "10.5.71.1",
+		"city": "CV",
+		"shopcode": "MITCV01"
+	},
+
+	"172.30.11": {
+		"host": "10.5.11.1",
+		"city": "KV",
+		"shopcode": "MITKV08"
+	},
+
+	"172.30.9": {
+		"host": "10.5.9.1",
+		"city": "KV",
+		"shopcode": "MITKV06"
+	},
+
+	"172.30.253": {
+		"host": "10.5.253.1",
+		"city": "HR",
+		"shopcode": "MITHR01"
+	},
+	"172.30.66": {
+		"host": "10.5.66.1",
+		"city": "KV",
+		"shopcode": "MITKV27"
+	},
+
+	"172.30.0": {
+		"host": "10.10.1.50",
+		"city": "KV",
+		"shopcode": "MITKV04"
+	},
+
+	"172.30.115": {
+		"host": "10.5.115.1",
+		"city": "GM",
+		"shopcode": "MITGM01"
+	},
+
+	"172.30.131": {
+		"host": "10.5.131.1",
+		"city": "BR",
+		"shopcode": "MITBR01"
+	},
+
+	"172.30.72": {
+		"host": "10.5.72.1",
+		"city": "KV",
+		"shopcode": "MITKV15"
+	},
+
+	"172.30.40": {
+		"host": "10.5.40.1",
+		"city": "KV",
+		"shopcode": "MITKV10"
+	},
+
+	"172.30.25": {
+		"host": "10.5.25.1",
+		"city": "DP",
+		"shopcode": "MITDP02"
+	},
+
+	"172.30.130": {
+		"host": "10.5.130.1",
+		"city": "VN",
+		"shopcode": "MITVN02"
+	},
+
+	"172.30.62": {
+		"host": "10.5.62.1",
+		"city": "UZ",
+		"shopcode": "MITUZ01"
+	},
+
+	"172.30.28": {
+		"host": "10.5.28.1",
+		"city": "DD",
+		"shopcode": "MITDD02"
+	},
+	"172.30.38": {
+		"host": "10.5.38.1",
+		"city": "DD",
+		"shopcode": "MITDD02"
+	},
+
+	"172.30.210": {
+		"host": "10.5.210.1",
+		"city": "CG",
+		"shopcode": "MITCG01"
+	},
+
+	"172.30.155": {
+		"host": "10.5.155.1",
+		"city": "KV",
+		"shopcode": "MITKV18"
+	},
+
+	"172.30.16": {
+		"host": "10.5.16.1",
+		"city": "CR",
+		"shopcode": "MITCR02"
+	},
+
+	"172.30.137": {
+		"host": "10.5.137.1",
+		"city": "KV",
+		"shopcode": "MITKV21"
+	},
+
+	"172.30.140": {
+		"host": "10.5.140.1",
+		"city": "KV",
+		"shopcode": "MITKV20"
+	},
+
+	"172.30.113": {
+		"host": "10.5.113.1",
+		"city": "KR",
+		"shopcode": "MITKR03"
+	},
+
+	"172.30.212": {
+		"host": "10.5.212.1",
+		"city": "KV",
+		"shopcode": "MITKV26"
+	},
+
+	"172.30.153": {
+		"host": "10.5.153.1",
+		"city": "LV",
+		"shopcode": "MITLV02"
+	},
+
+	"172.30.37": {
+		"host": "10.5.37.1",
+		"city": "OD",
+		"shopcode": "MITOD03"
+	},
+
+	"172.30.181": {
+		"host": "10.5.181.1",
+		"city": "KV",
+		"shopcode": "MITKV23"
+	},
+
+	"172.30.82": {
+		"host": "10.5.82.1",
+		"city": "HA",
+		"shopcode": "MITHA03"
+	},
+
+	"172.30.17": {
+		"host": "10.5.17.50",
+		"city": "KV",
+		"shopcode": "MITKV11"
+	},
+
+	"172.30.59": {
+		"host": "10.5.59.1",
+		"city": "OD",
+		"shopcode": "MITOD04"
+	},
+
+	"172.30.26": {
+		"host": "10.5.26.1",
+		"city": "DP",
+		"shopcode": "MITDP03"
+	},
+	"172.30.53": {
+		"host": "10.5.53.1",
+		"city": "VN",
+		"shopcode": "MITVN01"
+	},
+	"172.30.32": {
+		"host": "10.5.32.1",
+		"city": "HA",
+		"shopcode": "MITHA01"
+	},
+	"172.30.54": {
+		"host": "10.5.54.1",
+		"city": "LV",
+		"shopcode": "MITLV04"
+	},
+	"172.30.221": {
+		"host": "10.5.221.1",
+		"city": "LV",
+		"shopcode": "MITLV05"
+	},
+	"172.30.252": {
+		"host": "10.5.252.1",
+		"city": "OD",
+		"shopcode": "MITOD06"
+	},
+	"172.30.139": {
+		"host": "10.5.139.1",
+		"city": "OD",
+		"shopcode": "MITOD05"
+	},
+	"172.30.8": {
+		"host": "10.5.8.1",
+		"city": "KV",
+		"shopcode": "MITKV05"
+	},
+	"172.30.136": {
+		"host": "10.5.136.1",
+		"city": "DP",
+		"shopcode": "MITDP07"
+	},
+	"172.30.43": {
+		"host": "10.5.43.1",
+		"city": "DP",
+		"shopcode": "MITDP08"
+	},
+	"172.30.45": {
+		"host": "10.5.45.1",
+		"city": "HA",
+		"shopcode": "MITHA06"
+	},
+	"172.30.126": {
+		"host": "10.5.126.1",
+		"city": "HM",
+		"shopcode": "MITHM02"
+	},
+	"172.30.10": {
+		"host": "10.5.10.1",
+		"city": "KV",
+		"shopcode": "MITKV07"
+	},
+	"172.30.119": {
+		"host": "10.5.119.1",
+		"city": "DP",
+		"shopcode": "MITDP05"
+	},
+	"172.30.63": {
+		"host": "10.5.63.1",
+		"city": "ZP",
+		"shopcode": "MITZP03"
+	},
+	"172.30.108": {
+		"host": "10.5.108.1",
+		"city": "MP",
+		"shopcode": "MITMP02"
+	},
+	"172.30.64": {
+		"host": "10.5.64.1",
+		"city": "MP",
+		"shopcode": "MITMP01"
+	},
+	"172.30.185": {
+		"host": "10.5.185.5",
+		"city": "KV",
+		"shopcode": "MMPKV06"
+	},
+	"172.30.218": {
+		"host": "10.5.218.1",
+		"city": "KV",
+		"shopcode": "MIKKV01"
+	},
+	"172.30.83": {
+		"host": "172.30.83.1",
+		"city": "KV",
+		"shopcode": "MAXKV01"
+	},
+	"172.30.31": {
+		"host": "10.5.31.10",
+		"city": "LC",
+		"shopcode": "MITLC02"
+	},
+	"172.30.98": {
+		"host": "10.5.98.1",
+		"city": "PL",
+		"shopcode": "MITPL01"
+	},
+	"172.30.22": {
+		"host": "10.5.22.1",
+		"city": "HA",
+		"shopcode": "MITHA07"
+	},
+	"172.30.91": {
+		"host": "172.30.91.1",
+		"city": "LV",
+		"shopcode": "MSKLV01"
+	},
+	"172.30.107.1": {
+		"host": "172.30.107.1",
+		"city": "KV",
+		"shopcode": "MTLKV09"
+	},
+	"172.30.139.50": {
+		"host": "172.30.139.50",
+		"city": "OD",
+		"shopcode": "MSKOD01"
+	},
+	"172.30.95.2": {
+		"host": "172.30.95.2",
+		"city": "KV",
+		"shopcode": "MSKKV05"
+	},
+	"172.30.95.1": {
+		"host": "172.30.95.1",
+		"city": "KV",
+		"shopcode": "MECKV11"
+	},
+	"172.30.97.1": {
+		"host": "172.30.97.1",
+		"city": "KV",
+		"shopcode": "MGXKV10"
+	},
+	"172.30.35": {
+		"host": "172.30.35.1",
+		"city": "KV",
+		"shopcode": "MSKKV07"
+	},
+	"172.30.197": {
+		"host": "172.30.197.1",
+		"city": "KV",
+		"shopcode": "MTLKV08"
+	},
+	"172.30.24": {
+		"host": "172.30.24.1",
+		"city": "KV",
+		"shopcode": "MTLKV11"
+	},
+	"172.30.116": {
+		"host": "172.30.116.1",
+		"city": "KV",
+		"shopcode": "MECKV13"
+	},
+	"172.30.140.10": {
+		"host": "172.30.140.10",
+		"city": "KV",
+		"shopcode": "MECKV07"
+	},
+	"172.30.30": {
+		"host": "172.30.30.1",
+		"city": "KV",
+		"shopcode": "MSKKV06"
+	},
+	"172.30.36": {
+		"host": "172.30.36.1",
+		"city": "LV",
+		"shopcode": "MECLV02"
+	},
+	"172.30.239": {
+		"host": "172.30.239.1",
+		"city": "LV",
+		"shopcode": "MECLV03"
+	},
+	"172.30.70.1": {
+		"host": "172.30.70.1",
+		"city": "LV",
+		"shopcode": "MTLLV01"
+	},
+	"172.30.230": {
+		"host": "172.30.230.1",
+		"city": "VN",
+		"shopcode": "MECVN01"
+	},
+	"172.30.164": {
+		"host": "172.30.164.1",
+		"city": "KV",
+		"shopcode": "MECKV09"
+	},
+	"172.30.135.1": {
+		"host": "172.30.135.1",
+		"city": "KV",
+		"shopcode": "MECKV06"
+	},
+	"172.30.140.70": {
+		"host": "172.30.140.70",
+		"city": "KV",
+		"shopcode": "MTLKV06"
+	},
+	"172.30.118": {
+		"host": "172.30.118.1",
+		"city": "HA",
+		"shopcode": "MTLHA02"
+	},
+	"172.30.13": {
+		"host": "172.30.13.1",
+		"city": "KV",
+		"shopcode": "MECKV01"
+	},
+	"172.30.14": {
+		"host": "172.30.14.1",
+		"city": "KV",
+		"shopcode": "MECKV02"
+	},
+	"172.30.142.1": {
+		"host": "172.30.142.1",
+		"city": "HR",
+		"shopcode": "MECHR01"
+	},
+	"172.30.44.1": {
+		"host": "172.30.44.1",
+		"city": "HR",
+		"shopcode": "MTLHR01"
+	},
+	"172.30.50": {
+		"host": "172.30.50.1",
+		"city": "ZP",
+		"shopcode": "MECZP01"
+	},
+	"172.30.43.71": {
+		"host": "172.30.43.71",
+		"city": "DP",
+		"shopcode": "MTLDP02"
+	},
+	"172.30.60": {
+		"host": "172.30.60.1",
+		"city": "HA",
+		"shopcode": "MECHA01"
+	},
+	"172.30.43.81": {
+		"host": "172.30.43.81",
+		"city": "DP",
+		"shopcode": "MECDP03"
+	},
+	"172.30.118.2": {
+		"host": "172.30.118.2",
+		"city": "HA",
+		"shopcode": "MSKHA01"
+	},
+	"172.30.166.1": {
+		"host": "172.30.166.1",
+		"city": "KV",
+		"shopcode": "MECKV10"
+	},
+	"172.30.43.51": {
+		"host": "172.30.43.51",
+		"city": "DP",
+		"shopcode": "MGXDP03"
+	},
+	"172.30.51.3": {
+		"host": "172.30.51.3",
+		"city": "ZP",
+		"shopcode": "MTLZP01"
+	},
+	"172.30.27": {
+		"host": "10.5.27.10",
+		"city": "DP",
+		"shopcode": "MECDP01"
+	},
+	"172.30.106": {
+		"host": "10.5.106.1",
+		"city": "RV",
+		"shopcode": "MITRV01"
+	},
+	"172.30.216.1": {
+		"host": "172.30.216.1",
+		"city": "OD",
+		"shopcode": "MECOD03"
+	},
+	"172.30.246.1": {
+		"host": "172.30.246.1",
+		"city": "OD",
+		"shopcode": "MTLOD02"
+	},
+	"172.30.243.1": {
+		"host": "172.30.243.1",
+		"city": "OD",
+		"shopcode": "MGXOD04"
+	},
+	"172.30.23.1": {
+		"host": "172.30.23.1",
+		"city": "OD",
+		"shopcode": "MECOD01"
+	},
+	"172.30.86.1": {
+		"host": "172.30.86.1",
+		"city": "OD",
+		"shopcode": "MSKOD02"
+	},
+	"172.30.182.1": {
+		"host": "172.30.182.1",
+		"city": "KV",
+		"shopcode": "MNPKV04"
+	},
+	"172.30.46": { "host": "10.5.46.1", "city": "IF", "shopcode": "MITIF01" },
+	"172.30.172": {
+		"host": "10.5.172.5",
+		"city": "TR",
+		"shopcode": "MITTR02"
+	},
+	"172.30.171": {
+		"host": "10.5.171.5",
+		"city": "SM",
+		"shopcode": "MITSM02"
+	},
+	"172.30.174.1": {
+		"host": "172.30.174.1",
+		"city": "DP",
+		"shopcode": "MSKDP01"
+	},
+	"172.30.93.1": {
+		"host": "172.30.174.1",
+		"city": "DP",
+		"shopcode": "MSKDP01"
+	},
+	"172.30.97.2": {
+		"host": "172.30.97.2",
+		"city": "KV",
+		"shopcode": "MNPKV02"
+	},
+	"172.30.150.1": {
+		"host": "172.30.150.1",
+		"city": "KV",
+		"shopcode": "MMPKV05"
+	},
+	"172.30.49.1": {
+		"host": "172.30.49.1",
+		"city": "KV",
+		"shopcode": "MMPKV09"
+	},
+	"172.30.101": {
+		"host": "10.5.101.1",
+		"city": "KV",
+		"shopcode": "MOTKV01"
+	},
+	"172.30.93.1": {
+		"host": "172.30.93.1",
+		"city": "KV",
+		"shopcode": "MCLKV05"
+	},
+	"172.30.104": {
+		"host": "10.5.104.1",
+		"city": "KV",
+		"shopcode": "MOTKV04"
+	},
+	"172.30.217.1": {
+		"host": "172.30.217.1",
+		"city": "HA",
+		"shopcode": "MCLHA01"
+	},
+	"172.30.248.1": {
+		"host": "172.30.248.1",
+		"city": "OD",
+		"shopcode": "MCLOD02"
+	},
+	"172.30.132.1": {
+		"host": "172.30.132.1",
+		"city": "KV",
+		"shopcode": "MMPKV10"
+	},
+	"172.30.93.1": {
+		"host": "172.30.93.1",
+		"city": "KV",
+		"shopcode": "MCLKV05"
+	},
+	"172.30.173.1": {
+		"host": "172.30.173.1",
+		"city": "KV",
+		"shopcode": "MGXKV11"
+	},
+	"172.30.104": {
+		"host": "10.5.104.1",
+		"city": "KV",
+		"shopcode": "MOTKV04"
+	},
+	"172.30.167": {
+		"host": "10.5.167.1",
+		"city": "KV",
+		"shopcode": "MOTKV02"
+	},
+	"172.30.201.1": {
+		"host": "172.30.201.1",
+		"city": "DP",
+		"shopcode": "MNPDP01"
+	},
+	"172.30.228.1": {
+		"host": "172.30.228.1",
+		"city": "DP",
+		"shopcode": "MMPDP02"
+	},
+	"172.30.84.1": {
+		"host": "172.30.84.1",
+		"city": "KV",
+		"shopcode": "MAJKV03"
+	},
+	"172.30.193.1": {
+		"host": "172.30.193.1",
+		"city": "LV",
+		"shopcode": "MGXLV02"
+	},
+	"172.30.176": {
+		"host": "10.5.176.1",
+		"city": "LV",
+		"shopcode": "MITLV06"
+	},
+	"172.30.179.1": {
+		"host": "172.30.179.1",
+		"city": "DP",
+		"shopcode": "MECDP04"
+	}
+}

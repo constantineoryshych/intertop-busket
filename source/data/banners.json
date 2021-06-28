@@ -1,0 +1,45 @@
+{
+	"header": {
+		"location": {
+			"/primary": ["slide1"],
+			"/search": ["slide2"],
+			"/main": ["slide3"]
+		},
+		"brand": {
+
+		},
+		"default": "slide1"
+	},
+	"sales": {
+		"first": {
+			"vert": ["sale1"],
+			"hori": ["sale1"],
+			"preset": "braska"
+		},
+		"second": {
+			"vert": ["sale2"],
+			"hori": ["sale2"],
+			"preset": "timberland"
+		},
+		"third": {
+			"vert": ["sale3"],
+			"hori": ["sale3"],
+			"preset": "skechers"
+		},
+		"fourth": {
+			"vert": ["sale4"],
+			"hori": ["sale4"],
+			"preset": "ecco"
+		},
+		"search": {
+			"vert": ["saleSeacrhVert"],
+			"hori": ["saleSeacrhHori"],
+			"preset": null
+		},
+		"footer": {
+			"vert": ["saleFooter"],
+			"hori": [null],
+			"preset": null
+		}
+	}
+}
